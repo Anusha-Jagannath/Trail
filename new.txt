@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This should be merged in second line
+=======
+Hello world anusha here
+>>>>>>> next
